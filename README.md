@@ -1,4 +1,4 @@
-# Stock-Market-Price-Prediction
+# Stock-Market-Price-Prediction-Project
 Stock Market Price prediction project using LSTM and Decision Tree Regression
 Members:
 1) Mihir Vatsa
